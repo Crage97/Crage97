@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Crage97
-- 👀 I’m interested in ... Mql4
-- 🌱 I’m currently learning ...Mql4
-- 💞️ I’m looking to collaborate on ... Mql4
+- 👀 I’m interested in ...all
+- 🌱 I’m currently learning .all
+- 💞️ I’m looking to collaborate on ..all
 - 📫 How to reach me ... 
 
 <!---
